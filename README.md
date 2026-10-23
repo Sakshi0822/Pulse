@@ -110,7 +110,7 @@ This project satisfies requirements across three foundational domains of Compute
 
 ---
 
-## 🎤 Presentation & Viva Walkthrough Guide
+## 🎓 Presentation & Viva Walkthrough Guide
 
 Use this script during your minor project evaluation:
 
@@ -159,8 +159,8 @@ Use this script during your minor project evaluation:
 
 | Layer | Technologies |
 |---|---|
-| **Frontend Framework** | React 18 (TypeScript), Vite |
-| **Styling & Design System** | Tailwind CSS (Dark-canvas aesthetic, mathematical border radii) |
+| Frontend Framework | React 19 (TypeScript), Vite |
+| Styling & Design System | Tailwind CSS 4 (Dark-canvas aesthetic, mathematical border radii) |
 | **Icons & Visuals** | Lucide React |
 | **State Management** | React Context API with persistent `localStorage` serialization |
 | **Algorithms & Engine** | Custom discrete-event simulation & CPU scheduling engine |
