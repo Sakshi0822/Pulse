@@ -169,28 +169,35 @@ Use this script during your minor project evaluation:
 
 ## 💻 Local Development Setup
 
-1. **Clone the repository**:
+### Prerequisites
+- Node.js and npm installed
+
+### Installation
+
+1. **Clone the repository**
    ```bash
-   git clone <repo-url>
-   cd pulse
+   git clone https://github.com/Sakshi0822/Pulse.git
+   cd Pulse
    ```
 
-2. **Install dependencies**:
+2. **Install dependencies**
    ```bash
    npm install
    ```
 
-3. **Start the development server**:
+3. **Start the development server**
    ```bash
    npm run dev
    ```
-   The application will be available at `http://localhost:3000`.
 
-4. **Verify and build for production**:
-   ```bash
-   npm run lint
-   npm run build
-   ```
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### Verify and Build
+
+```bash
+npm run lint
+npm run build
+```
 
 ---
 
